@@ -1,0 +1,10 @@
+.idea
+test.sh
+db.sqlite3
+__pycache__/
+pkg/
+targets/
+*.pyc
+*.log
+*.tar.gz
+*.tar
